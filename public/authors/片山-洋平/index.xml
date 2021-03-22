@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>片山 洋平 | Portfolio</title>
+    <link>https://nakaokarei.github.io/my_portfolio/authors/%E7%89%87%E5%B1%B1-%E6%B4%8B%E5%B9%B3/</link>
+      <atom:link href="https://nakaokarei.github.io/my_portfolio/authors/%E7%89%87%E5%B1%B1-%E6%B4%8B%E5%B9%B3/index.xml" rel="self" type="application/rss+xml" />
+    <description>片山 洋平</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2021 Nakaoka Rei</copyright><lastBuildDate>Fri, 20 Nov 2020 14:37:02 +0900</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>片山 洋平</title>
+      <link>https://nakaokarei.github.io/my_portfolio/authors/%E7%89%87%E5%B1%B1-%E6%B4%8B%E5%B9%B3/</link>
+    </image>
+    
+    <item>
+      <title>口腔内画像撮影支援システムの提案</title>
+      <link>https://nakaokarei.github.io/my_portfolio/publication/03/</link>
+      <pubDate>Fri, 20 Nov 2020 14:37:02 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/publication/03/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

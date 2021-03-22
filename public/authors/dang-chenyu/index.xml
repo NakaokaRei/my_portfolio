@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dang Chenyu | Portfolio</title>
+    <link>https://nakaokarei.github.io/my_portfolio/authors/dang-chenyu/</link>
+      <atom:link href="https://nakaokarei.github.io/my_portfolio/authors/dang-chenyu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dang Chenyu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2021 Nakaoka Rei</copyright><lastBuildDate>Fri, 20 Nov 2020 14:37:02 +0900</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Dang Chenyu</title>
+      <link>https://nakaokarei.github.io/my_portfolio/authors/dang-chenyu/</link>
+    </image>
+    
+    <item>
+      <title>口腔内画像撮影支援システムの提案</title>
+      <link>https://nakaokarei.github.io/my_portfolio/publication/03/</link>
+      <pubDate>Fri, 20 Nov 2020 14:37:02 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/publication/03/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

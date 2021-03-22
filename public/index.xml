@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio</title>
+    <link>https://nakaokarei.github.io/my_portfolio/</link>
+      <atom:link href="https://nakaokarei.github.io/my_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Portfolio</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2021 Nakaoka Rei</copyright><lastBuildDate>Mon, 22 Mar 2021 19:03:38 +0900</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Portfolio</title>
+      <link>https://nakaokarei.github.io/my_portfolio/</link>
+    </image>
+    
+    <item>
+      <title>eat2pic: Food-tech Design as a Healthy Nudge with Smart Chopsticks and Canvas</title>
+      <link>https://nakaokarei.github.io/my_portfolio/publication/05/</link>
+      <pubDate>Mon, 22 Mar 2021 19:03:38 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/publication/05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eat2pic：食事と描画の相互作用を用いた健康的な食生活を促すナッジシステム</title>
+      <link>https://nakaokarei.github.io/my_portfolio/publication/04/</link>
+      <pubDate>Mon, 22 Mar 2021 18:38:19 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/publication/04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>口腔内画像撮影支援システムの提案</title>
+      <link>https://nakaokarei.github.io/my_portfolio/publication/03/</link>
+      <pubDate>Fri, 20 Nov 2020 14:37:02 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/publication/03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DaiCon</title>
+      <link>https://nakaokarei.github.io/my_portfolio/project/09/</link>
+      <pubDate>Fri, 20 Nov 2020 14:25:38 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/project/09/</guid>
+      <description>&lt;p&gt;JPHacks2021に参加した際に開発したサービスです．
+私は，iOSアプリの開発を担当しました．
+詳しくはリポジトリのREADMEを見てください．&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>メシクエ</title>
+      <link>https://nakaokarei.github.io/my_portfolio/project/08/</link>
+      <pubDate>Wed, 30 Sep 2020 19:28:12 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/project/08/</guid>
+      <description>&lt;h1 id=&#34;概要&#34;&gt;概要&lt;/h1&gt;
+&lt;p&gt;研究室内のアプリコンテストでの開発物です．11人中最優秀賞をいただきました．&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COCOA Bomber</title>
+      <link>https://nakaokarei.github.io/my_portfolio/project/07/</link>
+      <pubDate>Tue, 01 Sep 2020 16:24:37 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/project/07/</guid>
+      <description>&lt;h1 id=&#34;cocoa-bomber&#34;&gt;COCOA Bomber&lt;/h1&gt;
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;p&gt;研究室の同期とSPAJAM2020の第一回予選に参加した際に開発したアプリ．自分はSwiftを使用して，COCOAをスキャンするラズパイとの通信部分の開発をメインに行いました．リードエンジニアのような立ち位置を経験し，他のエンジニアとの連携やプロジェクトの管理なども行いました．&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>平成振り返りデバイス</title>
+      <link>https://nakaokarei.github.io/my_portfolio/project/06/</link>
+      <pubDate>Mon, 20 Apr 2020 10:19:35 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/project/06/</guid>
+      <description>&lt;p&gt;サイバーエージェント主催のハッカソン「平成最後のハッカソン」でチーム開発しました．センサで物理的な振り向きを検知するとwebサイトに平成のニュースやツイートが届きます．&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3D-CNNを用いた多チャンネル地中レーダ画像の物体識別</title>
+      <link>https://nakaokarei.github.io/my_portfolio/publication/01/</link>
+      <pubDate>Sun, 01 Mar 2020 01:27:46 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/publication/01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>シガダイゴ</title>
+      <link>https://nakaokarei.github.io/my_portfolio/project/05/</link>
+      <pubDate>Sat, 29 Feb 2020 23:29:49 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/project/05/</guid>
+      <description>&lt;p&gt;大分高専本科5年次にグループで作成したリズムアーケードゲームです．電子回路設計と基盤設計を担当しました．&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CHECK</title>
+      <link>https://nakaokarei.github.io/my_portfolio/project/04/</link>
+      <pubDate>Sat, 29 Feb 2020 23:25:13 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/project/04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>マツコbot</title>
+      <link>https://nakaokarei.github.io/my_portfolio/project/03/</link>
+      <pubDate>Sat, 29 Feb 2020 23:21:05 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/project/03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>平成振り返りアプリ</title>
+      <link>https://nakaokarei.github.io/my_portfolio/project/02/</link>
+      <pubDate>Sat, 29 Feb 2020 23:14:29 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/project/02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>このサイト</title>
+      <link>https://nakaokarei.github.io/my_portfolio/project/01/</link>
+      <pubDate>Sat, 29 Feb 2020 23:08:59 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/project/01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugoでポートフォリオサイト作りました</title>
+      <link>https://nakaokarei.github.io/my_portfolio/post/first-post/</link>
+      <pubDate>Sat, 29 Feb 2020 01:47:30 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/post/first-post/</guid>
+      <description>&lt;p&gt;こんにちは、hugoでポートフォリオサイト作ったのでブログ的な記事はこれからここに投稿していこうと思います。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AnoGANを用いたIC外観画像の不良品検知</title>
+      <link>https://nakaokarei.github.io/my_portfolio/publication/02/</link>
+      <pubDate>Sat, 08 Dec 2018 01:44:00 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/publication/02/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

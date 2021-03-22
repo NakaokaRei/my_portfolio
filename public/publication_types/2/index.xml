@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Portfolio</title>
+    <link>https://nakaokarei.github.io/my_portfolio/publication_types/2/</link>
+      <atom:link href="https://nakaokarei.github.io/my_portfolio/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2020 Nakaoka Rei</copyright><lastBuildDate>Sun, 01 Mar 2020 01:27:46 +0900</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>2</title>
+      <link>https://nakaokarei.github.io/my_portfolio/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>3D-CNNを用いた多チャンネル地中レーダ画像の物体識別</title>
+      <link>https://nakaokarei.github.io/my_portfolio/publication/01/</link>
+      <pubDate>Sun, 01 Mar 2020 01:27:46 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/publication/01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AnoGANを用いたIC外観画像の不良品検知</title>
+      <link>https://nakaokarei.github.io/my_portfolio/publication/02/</link>
+      <pubDate>Sat, 08 Dec 2018 01:44:00 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/publication/02/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

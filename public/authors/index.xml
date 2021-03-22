@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Portfolio</title>
+    <link>https://nakaokarei.github.io/my_portfolio/authors/</link>
+      <atom:link href="https://nakaokarei.github.io/my_portfolio/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2021 Nakaoka Rei</copyright><lastBuildDate>Mon, 22 Mar 2021 19:03:38 +0900</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>https://nakaokarei.github.io/my_portfolio/authors/</link>
+    </image>
+    
+  </channel>
+</rss>

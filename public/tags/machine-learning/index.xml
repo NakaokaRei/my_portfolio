@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Portfolio</title>
+    <link>https://nakaokarei.github.io/my_portfolio/tags/machine-learning/</link>
+      <atom:link href="https://nakaokarei.github.io/my_portfolio/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>reideeplearning@gmail.com</copyright><lastBuildDate>Sat, 29 Feb 2020 23:25:13 +0900</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Machine Learning</title>
+      <link>https://nakaokarei.github.io/my_portfolio/tags/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>服装採点アプリ</title>
+      <link>https://nakaokarei.github.io/my_portfolio/project/04/</link>
+      <pubDate>Sat, 29 Feb 2020 23:25:13 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/project/04/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
