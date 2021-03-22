@@ -14,7 +14,7 @@ role: 情報系大学院生
 
 # Organizations/Affiliations
 organizations:
-- name: 奈良先端科学技術大学院大学
+- name: 奈良先端科学技術大学院大学（NAIST）
   url: "http://www.naist.jp/"
 
 # Short bio (displayed in user profile at end of posts)
