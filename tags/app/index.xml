@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>App | Portfolio</title>
+    <link>https://nakaokarei.github.io/my_portfolio/tags/app/</link>
+      <atom:link href="https://nakaokarei.github.io/my_portfolio/tags/app/index.xml" rel="self" type="application/rss+xml" />
+    <description>App</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2021 Nakaoka Rei</copyright><lastBuildDate>Fri, 20 Nov 2020 14:25:38 +0900</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>App</title>
+      <link>https://nakaokarei.github.io/my_portfolio/tags/app/</link>
+    </image>
+    
+    <item>
+      <title>DaiCon</title>
+      <link>https://nakaokarei.github.io/my_portfolio/project/09/</link>
+      <pubDate>Fri, 20 Nov 2020 14:25:38 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/project/09/</guid>
+      <description>&lt;p&gt;JPHacks2021に参加した際に開発したサービスです．
+私は，iOSアプリの開発を担当しました．
+詳しくはリポジトリのREADMEを見てください．&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>メシクエ</title>
+      <link>https://nakaokarei.github.io/my_portfolio/project/08/</link>
+      <pubDate>Wed, 30 Sep 2020 19:28:12 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/project/08/</guid>
+      <description>&lt;h1 id=&#34;概要&#34;&gt;概要&lt;/h1&gt;
+&lt;p&gt;研究室内のアプリコンテストでの開発物です．11人中最優秀賞をいただきました．&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COCOA Bomber</title>
+      <link>https://nakaokarei.github.io/my_portfolio/project/07/</link>
+      <pubDate>Tue, 01 Sep 2020 16:24:37 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/project/07/</guid>
+      <description>&lt;h1 id=&#34;cocoa-bomber&#34;&gt;COCOA Bomber&lt;/h1&gt;
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;p&gt;研究室の同期とSPAJAM2020の第一回予選に参加した際に開発したアプリ．自分はSwiftを使用して，COCOAをスキャンするラズパイとの通信部分の開発をメインに行いました．リードエンジニアのような立ち位置を経験し，他のエンジニアとの連携やプロジェクトの管理なども行いました．&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CHECK</title>
+      <link>https://nakaokarei.github.io/my_portfolio/project/04/</link>
+      <pubDate>Sat, 29 Feb 2020 23:25:13 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/project/04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>平成振り返りアプリ</title>
+      <link>https://nakaokarei.github.io/my_portfolio/project/02/</link>
+      <pubDate>Sat, 29 Feb 2020 23:14:29 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/project/02/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

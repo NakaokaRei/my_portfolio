@@ -1,0 +1,18 @@
+{
+  "name": "Portfolio",
+  "short_name": "Portfolio",
+  "lang": "ja",
+  "theme_color": "#3f51b5",
+  "background_color": "#3f51b5",
+  "icons": [{
+    "src": "/my_portfolio/images/icon_hu41980c3b63d864ae3a2826b316f6a873_171008_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/my_portfolio/images/icon_hu41980c3b63d864ae3a2826b316f6a873_171008_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/my_portfolio/?utm_source=web_app_manifest"
+}
