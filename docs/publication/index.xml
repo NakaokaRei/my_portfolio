@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Portfolio</title>
+    <link>https://nakaokarei.github.io/my_portfolio/publication/</link>
+      <atom:link href="https://nakaokarei.github.io/my_portfolio/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2021 Nakaoka Rei</copyright><lastBuildDate>Mon, 22 Mar 2021 19:03:38 +0900</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Publications</title>
+      <link>https://nakaokarei.github.io/my_portfolio/publication/</link>
+    </image>
+    
+    <item>
+      <title>eat2pic: Food-tech Design as a Healthy Nudge with Smart Chopsticks and Canvas</title>
+      <link>https://nakaokarei.github.io/my_portfolio/publication/05/</link>
+      <pubDate>Mon, 22 Mar 2021 19:03:38 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/publication/05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eat2pic：食事と描画の相互作用を用いた健康的な食生活を促すナッジシステム</title>
+      <link>https://nakaokarei.github.io/my_portfolio/publication/04/</link>
+      <pubDate>Mon, 22 Mar 2021 18:38:19 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/publication/04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>口腔内画像撮影支援システムの提案</title>
+      <link>https://nakaokarei.github.io/my_portfolio/publication/03/</link>
+      <pubDate>Fri, 20 Nov 2020 14:37:02 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/publication/03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D-CNNを用いた多チャンネル地中レーダ画像の物体識別</title>
+      <link>https://nakaokarei.github.io/my_portfolio/publication/01/</link>
+      <pubDate>Sun, 01 Mar 2020 01:27:46 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/publication/01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AnoGANを用いたIC外観画像の不良品検知</title>
+      <link>https://nakaokarei.github.io/my_portfolio/publication/02/</link>
+      <pubDate>Sat, 08 Dec 2018 01:44:00 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/publication/02/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

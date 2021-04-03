@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web | Portfolio</title>
+    <link>https://nakaokarei.github.io/my_portfolio/tags/web/</link>
+      <atom:link href="https://nakaokarei.github.io/my_portfolio/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <description>Web</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2021 Nakaoka Rei</copyright><lastBuildDate>Fri, 20 Nov 2020 14:25:38 +0900</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Web</title>
+      <link>https://nakaokarei.github.io/my_portfolio/tags/web/</link>
+    </image>
+    
+    <item>
+      <title>DaiCon</title>
+      <link>https://nakaokarei.github.io/my_portfolio/project/09/</link>
+      <pubDate>Fri, 20 Nov 2020 14:25:38 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/project/09/</guid>
+      <description>&lt;p&gt;JPHacks2021に参加した際に開発したサービスです．
+私は，iOSアプリの開発を担当しました．
+詳しくはリポジトリのREADMEを見てください．&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>平成振り返りデバイス</title>
+      <link>https://nakaokarei.github.io/my_portfolio/project/06/</link>
+      <pubDate>Mon, 20 Apr 2020 10:19:35 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/project/06/</guid>
+      <description>&lt;p&gt;サイバーエージェント主催のハッカソン「平成最後のハッカソン」でチーム開発しました．センサで物理的な振り向きを検知するとwebサイトに平成のニュースやツイートが届きます．&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>マツコbot</title>
+      <link>https://nakaokarei.github.io/my_portfolio/project/03/</link>
+      <pubDate>Sat, 29 Feb 2020 23:21:05 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/project/03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>平成振り返りアプリ</title>
+      <link>https://nakaokarei.github.io/my_portfolio/project/02/</link>
+      <pubDate>Sat, 29 Feb 2020 23:14:29 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/project/02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>このサイト</title>
+      <link>https://nakaokarei.github.io/my_portfolio/project/01/</link>
+      <pubDate>Sat, 29 Feb 2020 23:08:59 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/project/01/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

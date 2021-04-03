@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>三崎 慎也 | Portfolio</title>
+    <link>https://nakaokarei.github.io/my_portfolio/authors/%E4%B8%89%E5%B4%8E-%E6%85%8E%E4%B9%9F/</link>
+      <atom:link href="https://nakaokarei.github.io/my_portfolio/authors/%E4%B8%89%E5%B4%8E-%E6%85%8E%E4%B9%9F/index.xml" rel="self" type="application/rss+xml" />
+    <description>三崎 慎也</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2021 Nakaoka Rei</copyright><lastBuildDate>Mon, 22 Mar 2021 18:38:19 +0900</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>三崎 慎也</title>
+      <link>https://nakaokarei.github.io/my_portfolio/authors/%E4%B8%89%E5%B4%8E-%E6%85%8E%E4%B9%9F/</link>
+    </image>
+    
+    <item>
+      <title>eat2pic：食事と描画の相互作用を用いた健康的な食生活を促すナッジシステム</title>
+      <link>https://nakaokarei.github.io/my_portfolio/publication/04/</link>
+      <pubDate>Mon, 22 Mar 2021 18:38:19 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/publication/04/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

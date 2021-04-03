@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ML | Portfolio</title>
+    <link>https://nakaokarei.github.io/my_portfolio/tags/ml/</link>
+      <atom:link href="https://nakaokarei.github.io/my_portfolio/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    <description>ML</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>© 2021 Nakaoka Rei</copyright><lastBuildDate>Fri, 20 Nov 2020 14:25:38 +0900</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>ML</title>
+      <link>https://nakaokarei.github.io/my_portfolio/tags/ml/</link>
+    </image>
+    
+    <item>
+      <title>DaiCon</title>
+      <link>https://nakaokarei.github.io/my_portfolio/project/09/</link>
+      <pubDate>Fri, 20 Nov 2020 14:25:38 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/project/09/</guid>
+      <description>&lt;p&gt;JPHacks2021に参加した際に開発したサービスです．
+私は，iOSアプリの開発を担当しました．
+詳しくはリポジトリのREADMEを見てください．&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>メシクエ</title>
+      <link>https://nakaokarei.github.io/my_portfolio/project/08/</link>
+      <pubDate>Wed, 30 Sep 2020 19:28:12 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/project/08/</guid>
+      <description>&lt;h1 id=&#34;概要&#34;&gt;概要&lt;/h1&gt;
+&lt;p&gt;研究室内のアプリコンテストでの開発物です．11人中最優秀賞をいただきました．&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CHECK</title>
+      <link>https://nakaokarei.github.io/my_portfolio/project/04/</link>
+      <pubDate>Sat, 29 Feb 2020 23:25:13 +0900</pubDate>
+      <guid>https://nakaokarei.github.io/my_portfolio/project/04/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
