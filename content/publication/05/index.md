@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "2021 IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops '21, Demo)"
 publication_short: ""
 
-abstract: ""
+abstract: "Best Demo Award"
 
 # Summary. An optional shortened abstract.
 summary: ""
